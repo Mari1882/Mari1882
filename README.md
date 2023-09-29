@@ -2,7 +2,7 @@
 
 Meu nome é Mari1882
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvimento na linguagem JavasScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
@@ -12,5 +12,4 @@ Meu nome é Mari1882
 - 
 - @dixx_marithaina
 
-
-https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif
+![](https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif)
